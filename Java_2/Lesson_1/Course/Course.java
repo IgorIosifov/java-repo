@@ -21,15 +21,4 @@ public class Course extends Obstacle {
         this.wallHeight = wallHeigth;
     }
 }
-//    public int getRunLength() {
-//        return runLength;
-//    }
-//
-//    public int getSwimLength() {
-//        return swimLength;
-//    }
-//
-//    public int getWallHeight() {
-//        return wallHeight;
-//    }
-//}
+
